@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://aleksandr-staetskiy.github.io/sitemap.xml
