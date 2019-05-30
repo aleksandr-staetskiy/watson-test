@@ -2,7 +2,7 @@
 (function(RM, undefined) {
 
 	RM.config = {
-		root: "/watsons/",
+		root: "/watson-test/",
 		pushState: true
 	}
 
